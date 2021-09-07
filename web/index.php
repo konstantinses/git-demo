@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<p>fesfse</p>
+<p>Home page - to GitHub</p>
 </head>
 
 <body>
